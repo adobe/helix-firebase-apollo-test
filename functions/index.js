@@ -1,3 +1,14 @@
+/*
+Copyright 2019 Adobe
+All Rights Reserved.
+
+NOTICE: Adobe permits you to use, modify, and distribute this file in
+accordance with the terms of the Adobe license agreement accompanying
+it. If you have received this file from a source other than Adobe,
+then your use, modification, or distribution of it requires the prior
+written permission of Adobe.
+*/
+
 const functions = require('firebase-functions');
 const admin = require("firebase-admin");
 const express = require("express");
